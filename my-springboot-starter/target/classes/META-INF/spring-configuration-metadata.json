@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "util.date",
+      "type": "top.aoae.my_springboot_start.UtilProperties",
+      "sourceType": "top.aoae.my_springboot_start.UtilProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "util.date.latitude",
+      "type": "java.lang.Double",
+      "sourceType": "top.aoae.my_springboot_start.UtilProperties"
+    },
+    {
+      "name": "util.date.pattern-string",
+      "type": "java.lang.String",
+      "sourceType": "top.aoae.my_springboot_start.UtilProperties"
+    },
+    {
+      "name": "util.date.zone",
+      "type": "java.lang.Integer",
+      "sourceType": "top.aoae.my_springboot_start.UtilProperties"
+    }
+  ],
+  "hints": []
+}
