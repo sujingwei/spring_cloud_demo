@@ -57,3 +57,9 @@
 ./zuul-server/target/*
 ./zuul-server/.classpath
 ./zuul-server/.project
+
+./demo-swagger/.settings
+./demo-swagger/target
+./demo-swagger/target/*
+./demo-swagger/.classpath
+./demo-swagger/.project

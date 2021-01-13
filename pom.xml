@@ -104,5 +104,6 @@
 		<module>my-springboot-starter-used</module>
 		<module>zuul-server</module>
 		<module>demo-jpa</module>
+		<module>demo-swagger</module>
 	</modules>
 </project>
